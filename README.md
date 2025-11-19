@@ -52,6 +52,8 @@ These experiments follow real-world software development practices and prepare y
 - **Decorative widgets:** `Card`, `CircleAvatar`
 
 **Outcome:** I created a well-structured interface and understood widget trees.
+<img width="1280" height="798" alt="image" src="https://github.com/user-attachments/assets/2b6143ed-7712-4b28-978f-f59213ca744f" />
+
 
 ---
 
@@ -65,6 +67,8 @@ These experiments follow real-world software development practices and prepare y
 - Using `Navigator.pushReplacement()` and `pushNamed()`
 
 **Outcome:** I built a functional multi-page Flutter app with smooth navigation.
+<img width="1280" height="798" alt="image" src="https://github.com/user-attachments/assets/a596b739-f19f-4bb8-bed3-877a942311f4" />
+
 
 ---
 
@@ -79,6 +83,8 @@ These experiments follow real-world software development practices and prepare y
 - Submit button handling
 
 **Outcome:** I created a complete user input form with validation and proper error handling.
+<img width="1278" height="798" alt="image" src="https://github.com/user-attachments/assets/55799cb5-e3a4-47cc-a1db-cb9c4c40c151" />
+
 
 ---
 
@@ -95,6 +101,8 @@ These experiments follow real-world software development practices and prepare y
   - `Consumer`
 
 **Outcome:** I built a notes/state-changing UI using Provider, understanding global state sharing.
+<img width="1209" height="718" alt="Screenshot 2025-11-18 190822" src="https://github.com/user-attachments/assets/93399fa9-2a3a-4fda-8326-04d0a54a63fd" />
+
 
 ---
 
@@ -157,6 +165,8 @@ These experiments follow real-world software development practices and prepare y
 - Handling loading/error states
 
 **Outcome:** I built a fully functional app that displays real-time API data.
+<img width="1271" height="660" alt="Screenshot 2025-11-18 182135" src="https://github.com/user-attachments/assets/71c5b5e6-f13a-46a1-9bd1-c11849b0f6f7" />
+
 
 ---
 
