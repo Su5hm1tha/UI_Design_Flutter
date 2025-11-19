@@ -185,6 +185,8 @@ These experiments follow real-world software development practices and prepare y
 - Using breakpoints, logs, and console debugging
 
 **Outcome:** I built reliable testable code and learned how to fix bugs systematically.
+<img width="515" height="270" alt="Screenshot 2025-11-18 185059" src="https://github.com/user-attachments/assets/6c00c485-02cd-48a7-af94-a2a443c8f52e" />
+
 
 ---
 
